@@ -7,6 +7,8 @@ Warning: keep these files in their own folder, having other jpg images in the fo
 
 Place all files in a folder mounted and viewable by Homarr.
 
+update APOD.sh to the proper path.
+
 Run APOD.sh manually to initalise the system.
 
 Restart your Homarr container to allow it to locat astropix.jpg and index.html.
