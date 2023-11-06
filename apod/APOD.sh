@@ -1,6 +1,8 @@
 ### Code from tkap9000 on reddit
 ### https://www.reddit.com/r/space/comments/m0vzm0/i_made_this_executable_bash_file_that_sets_my/
 
+#change to directory to store the astropic
+cd /PATHTOASTROPIX
 #gets rid of pre-existing image if it exists
 rm astropix.jpg
 #retrieve image from url and filter out junk
