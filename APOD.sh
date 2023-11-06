@@ -1,5 +1,4 @@
 ### Code from tkap9000 on reddit    ###
-### minor edits by explosive parrot ###
 ### https://www.reddit.com/r/space/comments/m0vzm0/i_made_this_executable_bash_file_that_sets_my/
 
 #gets rid of pre-existing image if it exists
