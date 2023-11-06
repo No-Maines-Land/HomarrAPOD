@@ -15,10 +15,10 @@ Add a crontab command to run APOD.sh daily.
 
 # Background
 
-Set your background to /APODPATH/astropix.jpg. 
+Set your background to /YOURAPODPATH/astropix.jpg. 
 
 The image will updaate automatically, but your browser may require a reload.
 
 # iFrame
 
-Set the URL of your iFrame to /APODPATH/index.html.
+Set the URL of your iFrame to /YOURAPODPATH/index.html.
