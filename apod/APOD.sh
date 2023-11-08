@@ -3,10 +3,10 @@
 
 #change to directory to store the astropic
 cd /PATHTOASTROPIX
-#gets rid of pre-existing image if it exists
-rm astropix.jpg
+#make image subfolder, can be removed after initial run
+mkdir astropix
 #retrieve image from url and filter out junk
 wget -nd -p --accept jpg --reject html,txt -e robots=off https://apod.nasa.gov/apod/astropix.html
 #change name of file for consistency
-mv *.jpg astropix.jpg
+mv *.jpg astropix/astropix.jpg
 #use crontab -e command and type "0 5 * * * /PATH/file" to automate at 5am every morning
