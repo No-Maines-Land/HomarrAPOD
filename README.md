@@ -1,5 +1,5 @@
 # Homarr APOD
-Pulls the APOD for use as a Homarr background image or iframe insert. Origionally designed for Homarr runing in docker on an Ubuntu server.
+Pulls the APOD for use as a Homarr background image or iframe insert. Origionally designed for Homarr running in docker on an Ubuntu server.
 
 # Installation
 
